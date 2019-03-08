@@ -1,3 +1,4 @@
+ 
 
 
 ## Branching Notes 
@@ -11,5 +12,5 @@ This will list ways to create and manage branches
 
 `git checkout` - switches to that branch
 
-
+be carefull of master getting ahead of your branch.
 
